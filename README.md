@@ -27,7 +27,7 @@
 
 ******
   
-### - 📫 How to reach me:
+### How to reach me 📫:
    <p>
       <a href="https://www.linkedin.com/in/santillandario/">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Santillan Dario LinkedIn Profile" height="40" width="40">
