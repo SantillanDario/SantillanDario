@@ -1,18 +1,18 @@
 ## Hi, I'm Dario 👋
 
-******
+
 
 ## I'm a Full Stack Developer from Argentina!
 
-******
+
 
 <img src="https://miro.medium.com/max/3260/1*dY7GLk_sGv189gn6wM8Exg.png" />
 
-******
+**
 
 ### I'm currently working on a marketplace project, with techs like TypeScript, React, Redux, Bootstrap, Node, Express, PostgreSQL and Sequelize. 
 
-******
+*
 
 ### Tech Stack
 
