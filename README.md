@@ -24,9 +24,16 @@
 </p
 
 
-### You can find me: 
-- [Linkedin](https://www.linkedin.com/in/santillandario/)
-- [Email](santillandario823@gmail.com)
+### - 📫 How to reach me:
+   <p>
+      <a href="https://www.linkedin.com/in/santillandario/">
+         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Santillan Dario LinkedIn Profile" height="40" width="40">
+      </a>   
+      <a align='right' href="mailto:santillandario823@gmail.com">
+         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40"/>
+      </a>  
+   </p>
+   <p><label>santillandario823@gmail.com</label></p>
 
 <!--
 **SantillanDario/SantillanDario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
