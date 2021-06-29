@@ -2,6 +2,8 @@
 
 ## I'm a Full Stack Developer from Argentina!
 
+[<img src="https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif" />]
+
 ## I'm currently working on a marketplace project, with techs like TypeScript, React, Redux, Bootstrap, Node, Express, PostgreSQL and Sequelize. 
 
 ## You can find me: 
