@@ -1,6 +1,12 @@
 ### Hi, I'm Dario 👋
 
-##Im a Full Stack Developer from Argentina!
+## I'm a Full Stack Developer from Argentina!
+
+## I'm currently working on a marketplace project, with techs like TypeScript, React, Redux, Bootstrap, Node, Express, PostgreSQL and Sequelize. 
+
+## You can find me: 
+- [Linkedin](https://www.linkedin.com/in/santillandario/)
+- [Email](santillandario823@gmail.com)
 
 <!--
 **SantillanDario/SantillanDario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
